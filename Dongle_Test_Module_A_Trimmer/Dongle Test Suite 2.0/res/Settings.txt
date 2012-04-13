@@ -1,0 +1,59 @@
+Dongle Test Module A 1.1 Settings file
+
+Format of this file: name of parameter, followed by the value of the parameter on its own line.  
+	If the line is blank or commented out, then the parameter will be set using other means: 
+	either a hard-coded default value or a prompt, or another input as indicated in the item description.
+	DO NOT change the parameter name lines, or this settings file will not function.
+
+
+
+PID expected for USB under test (if unspecified, defaults to 04036001):
+04036001
+
+Throw an error if a test is attempted on a board with this PID (if unspecified, defaults to dummy value 99):
+//04038C81
+
+SSL bin filename:
+Generic_Loader_1.0.0_30-03-2012.bin
+
+Listen loop timeout (number of times to loop through 20-ms listen before timing out, default = 50):
+150
+
+TRIMMING SETTINGS:
+Trimming crystal? (defaults to false, ignored if testing = false) (this line must be first of the trimming settings)
+true
+
+If not trimming crystal (ignored if trimming set to true):
+-Setting default trim values?
+   true
+   Default trim values (use two digits even if below 10, like 08):
+   coarse: 10
+   fine: 15
+-Looking up trim values by MAC address in external log file?
+   false
+   external trim log filename: trimdatabase.txt
+-Measuring frequency once at the chosen trim values?
+   false
+
+
+END SETTINGS FILE
+
+//ZTCwithTMRflashclearBaud115200.bin
+//ModletZTCwithTMRflashclearBaud115200.bin
+//Dongle_HW3_SW2.bin
+//Dongle3.0.11V0.bin
+//ssl-921600.bin
+//SSL921600timertrimmer.bin
+//Dongle_test_2-1-12.bin
+//Dongle_Release_For_Data_Art_2-2-12.bin
+//Dongle_Production_Version_Candidate_1.bin
+//Dongle_Production_Version_Candidate_9.bin
+//Dongle_1.0.0_23-02-2012.bin
+//Dongle_Clock_Test.bin
+
+//new testing fw:
+//Dongle_F0.0.0_01-03-2012-modlettesting.bin
+//Dongle_F0.1.0_21-03-2012.bin
+//new production fw:
+//Dongle_1.0.0_28-02-2012.bin
+Dongle_F0.1.0_21-03-2012.bin

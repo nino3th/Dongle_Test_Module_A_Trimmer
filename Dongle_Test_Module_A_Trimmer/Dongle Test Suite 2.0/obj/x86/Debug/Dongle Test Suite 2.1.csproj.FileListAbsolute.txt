@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\bin\Debug\FTD2XX_NET.dll
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\obj\x86\Debug\Dongle_Test_Suite_2._1.MainForm.resources
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\obj\x86\Debug\Dongle_Test_Suite_2._1.Properties.Resources.resources
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\bin\Debug\Dongle Test Suite 2.1.exe.config
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\bin\Debug\Dongle Test Suite 2.1.exe
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\bin\Debug\Dongle Test Suite 2.1.pdb
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\obj\x86\Debug\Dongle Test Suite 2.1.exe
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Suite 2.1\Dongle Test Suite 2.0\obj\x86\Debug\Dongle Test Suite 2.1.pdb
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Module A - Trimmer\Dongle Test Suite 2.0\bin\Debug\Dongle Test Suite 2.1.exe.config
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Module A - Trimmer\Dongle Test Suite 2.0\obj\x86\Debug\Dongle Test Suite 2.1.exe
+C:\Users\admin\Documents\RepoMain\trunk\115200 BAUD PROGRAMS\Dongle Test Module A - Trimmer\Dongle Test Suite 2.0\obj\x86\Debug\Dongle Test Suite 2.1.pdb
