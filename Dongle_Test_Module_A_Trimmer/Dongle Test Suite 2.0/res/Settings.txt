@@ -13,6 +13,9 @@ PID expected for USB under test (if unspecified, defaults to 04036001):
 Throw an error if a test is attempted on a board with this PID (if unspecified, defaults to dummy value 99):
 //04038C81
 
+Frequency Counter Address:
+15
+
 SSL bin filename:
 Generic_Loader_1.0.0_30-03-2012.bin
 
