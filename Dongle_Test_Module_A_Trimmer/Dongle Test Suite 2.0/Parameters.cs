@@ -1,6 +1,8 @@
 ﻿//History
 //===================================================================================================
+// 20120413 |  1.2.2   | Nino Liu   |  Modified the path of reference files
 //===================================================================================================
+#define GCOM
 
 using System;
 using System.Collections.Generic;
@@ -14,7 +16,11 @@ namespace Dongle_Test_Suite_2._1
     class Parameters
     {
         //constants
+#if !GCOM
         public const string mainfilepath = "C:\\Program Files\\ThinkEco Test Suite\\Dongle Test Module A 1.2";
+#else
+        public const string mainfilepath = "D:\\Project\\ThinkEco dongle test procedure update\\Dongle Test Module A - Trimmer Source 1.2\\Dongle_Test_Module_A_Trimmer\\Dongle Test Suite 2.0\\res\\";
+#endif
         public const string settingsfilepath = mainfilepath + "\\Settings.txt";
         public const string testingfilepath = mainfilepath + "\\testing";
         public const string loadingfilepath = mainfilepath + "\\loading";
